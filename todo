@@ -1,0 +1,28 @@
+TO DO:
+
+Correct bug water: 
+	Affichage:
+		suit la gauche de l'ecran
+		qlq pixel de décalage-perte ?
+
+Creer source d'eau toujours pleines
+placer de l'eau dans les caves
+
+Corriger les caves bizarres
+		
+Corriger collisions approximative
+	perso dans la terre
+	boule de feu a travers les murs
+
+Placer des block
+
+Ne pas pouvoir enlever un bloc sous un arbre
+Passer le temps quand creuse un bloc
+
+Inventaire
+
+Corriger arbre & plantes qui poussent a l'entrée des caves
+
+Mourrir a hp=0
+
+System de niveau et upgrade

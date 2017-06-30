@@ -1,0 +1,12 @@
+timer_hit:0
+hp:500.05
+timer_atk:0
+delai_atk:0.2
+cave_view:10
+max_exp:1000
+atk:20
+exp:0
+max_hp:500
+y:19280
+x:20000
+heal:0.05
